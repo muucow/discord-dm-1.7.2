@@ -1,6 +1,6 @@
 {
-	"prefix" : "",
-	"token" : "",
-	"delay" : "delay in secs without any unit, for eg: 5",
-	"log_dms" : "enable or disable the logging after each DM"
+	"prefix" : "bing chilling",
+	"token" : "OTE3MjIyMjkwOTQ3NzExMDI3.Ya1j0w.IJu-IDtAGJ5Tp3kKKP3TwcZDcHA",
+	"delay" : "5",
+	"log_dms" : "on"
 }
